@@ -6,8 +6,28 @@
 
 ### Hi there 👋
 
-## Im Eva
 
+## About Eva 
+<details open>
+<summary>My top THINGS-IM-NOW-Focused-ON</summary>
+
+
+
+
+
+| Rank | Focused |
+|-----:|---------------|
+| beginner| CSS        |
+| beginner| HTML     |
+| beginner| JavaScript     |
+| beginner| Italian language    |
+
+
+---
+> Dum spiro spero
+> <!-- TO DO: add more details about me later -->
+
+</details>
 <!--
 **Edubova/Edubova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
