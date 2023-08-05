@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://thumbs.dreamstime.com/z/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg?w=992">
+ <img alt="pure" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fnatur&psig=AOvVaw0OZKeePOQahrbKFY9SCD2T&ust=1691300193569000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiW5qvmxIADFQAAAAAdAAAAABAE">
 </picture>
 
 ### Hi there 👋
